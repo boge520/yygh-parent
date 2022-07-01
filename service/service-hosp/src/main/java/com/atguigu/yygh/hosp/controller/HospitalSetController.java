@@ -25,6 +25,7 @@ public class HospitalSetController {
     @Autowired
     private HospitalSetService hospitalSetService;
 
+    //nihao
     /**
      * 1 查询医院设置表所有信息
      *
